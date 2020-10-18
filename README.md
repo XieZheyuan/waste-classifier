@@ -42,5 +42,5 @@ Python 3におけるゴミ分別プロセス
 モデルの精度を高めるために、Jieba分詞を使用し、いくつかの複雑なアルゴリズム(例えばk—最近傍アルゴリズムや素朴ベイズ分類器、サポートベクトルマシン)を使用していない。
 
 # Mainpage
-[Github Pages](http://xiezheyuan.top/waste—classifier)
+[Github Pages](http://xiezheyuan.top/waste-classifier)
 [Baidu AI Studio](https://aistudio.baidu.com/aistudio/datasetdetail/56238)
